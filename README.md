@@ -5,7 +5,7 @@ The Fraction AI Testnet BOT is designed to automate interactions on the Fraction
 
 ---
 
-## **Testnet Link**
+## **FractionAI Link to join FractionAI (Use this Link)**
 🔗 [Fraction AI DApp](https://dapp.fractionai.xyz?referral=0FC0E11A)
 
 ---
